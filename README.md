@@ -1,2 +1,3 @@
-# genesis-trunk-team
-A truck team
+# Genesis: Trunk Team
+
+Team cash management (within genesis)
